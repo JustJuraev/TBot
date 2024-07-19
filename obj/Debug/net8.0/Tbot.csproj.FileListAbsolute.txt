@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\TelegramBot\Tbot\bin\Debug\net8.0\Tbot.deps.json
+C:\Users\Dell\source\repos\TelegramBot\Tbot\bin\Debug\net8.0\Tbot.dll
+C:\Users\Dell\source\repos\TelegramBot\Tbot\bin\Debug\net8.0\Tbot.pdb
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.AssemblyInfo.cs
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.dll
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\refint\Tbot.dll
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\Tbot.pdb
+C:\Users\Dell\source\repos\TelegramBot\Tbot\obj\Debug\net8.0\ref\Tbot.dll
